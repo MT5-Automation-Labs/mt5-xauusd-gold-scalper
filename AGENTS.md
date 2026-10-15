@@ -7,7 +7,7 @@ Maintained by Victor Tereschenko (ProfitRobots), primarily to support the
 [Trade Script Converter](https://convertor.profitrobots.com) and Pine Script
 to MQL5 conversions (`snippets/PineScript` mirrors Pine Script APIs).
 
-Repository: https://github.com/sibvic/mq5-templates
+Repository: https://github.com/MT5-Automation-Labs/mt5-xauusd-gold-scalper
 
 ## Repository layout
 

@@ -1,7 +1,7 @@
 // Do implement EntryLongCondition and EntryShortCondition
 
 #property copyright "Copyright © 2025, ProfitRobots"
-#property link      "https://github.com/sibvic/mq5-templates"
+#property link      "https://github.com/MT5-Automation-Labs/mt5-xauusd-gold-scalper"
 #property description "ProfitRobots templates"
 #property version   "1.0"
 

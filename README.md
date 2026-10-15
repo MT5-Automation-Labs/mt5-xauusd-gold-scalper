@@ -126,3 +126,7 @@ Headers that used to sit loose in `snippets/` now live in a module folder. If yo
 ## License
 
 MIT. Copyright (c) 2019 Victor Tereschenko. See [LICENSE](LICENSE).
+
+## Contact
+
+Telegram: [t.me/teraus111](https://t.me/teraus111)
